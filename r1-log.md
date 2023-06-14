@@ -18,4 +18,10 @@ Grinding through the [Full-Stack Engineer](https://www.codecademy.com/career-jou
 #FullStack
 #100DaysOfCode
 
+#### 13.06.23
+Working on the [Full-Stack Engineer](https://www.codecademy.com/career-journey/full-stack-engineer) path on [codecademy](https://www.codecademy.com/) *(2.5 hours)*
+- learned about Testing and TDD
+- tried to use Mocha for testing with assertion methods
+- learned about descriptive testing and Red-Green-Refactor approach
+
 ### R1D2
