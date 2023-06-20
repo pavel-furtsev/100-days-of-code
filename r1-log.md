@@ -41,7 +41,7 @@ Back to learning *(2.5 hours)*
 
 ### R1D5
 #### 20.06.23
-Finally learning React *(? hours)*
+Finally learning React *(4 hours)*
 - Intro to React, virtual DOM and JSX
 - React components
 
