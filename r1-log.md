@@ -36,5 +36,13 @@ Working on the [Full-Stack Engineer](https://www.codecademy.com/career-journey/f
 ### R1D4
 #### 19.06.23
 Back to learning *(2.5 hours)*
-- Promise ans assync-await
+- Promise and async-await
 - APIs and HTTP requests with `fetch`
+
+### R1D5
+#### 20.06.23
+Finally learning React *(? hours)*
+- Intro to React, virtual DOM and JSX
+- React components
+
+<img src="./images/react_animation.gif" alt="react gif" width="250">
