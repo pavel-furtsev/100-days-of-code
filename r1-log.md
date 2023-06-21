@@ -46,3 +46,8 @@ Finally learning React *(4 hours)*
 - React components
 
 <img src="./images/react_animation.gif" alt="react gif" width="250">
+
+### R1D6
+#### 21.06.23
+Continiung on basics of React *(1 hour)*
+- components' interactions and props
