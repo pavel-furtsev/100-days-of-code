@@ -51,3 +51,10 @@ Finally learning React *(4 hours)*
 #### 21.06.23
 Continiung on basics of React *(1 hour)*
 - components' interactions and props
+
+### R1D7
+#### 22.06.23
+Learned *(2.5 hours)*
+- Simple forum project with React
+- React DevTools for debugging
+- React hooks with `useState`
