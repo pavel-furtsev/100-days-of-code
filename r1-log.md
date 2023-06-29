@@ -58,3 +58,10 @@ Learned *(2.5 hours)*
 - Simple forum project with React
 - React DevTools for debugging
 - React hooks with `useState`
+
+### R1D8
+
+#### 29.06.23
+Had quite a long break, finally back to learning *(2 hours)*
+- React hooks with `useEffect`
+- React programming patter: *Containter - Presentation components*
