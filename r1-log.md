@@ -65,3 +65,11 @@ Learned *(2.5 hours)*
 Had quite a long break, finally back to learning *(2 hours)*
 - React hooks with `useEffect`
 - React programming patter: *Containter - Presentation components*
+
+### R1D9
+
+#### 01.07.23
+Todays' progress *(2 hours)*
+- sharing states between components
+- styling and forms in React
+- started working on a project: https://github.com/pavel-furtsev/Spotify-Playlist-App
