@@ -73,3 +73,10 @@ Todays' progress *(2 hours)*
 - sharing states between components
 - styling and forms in React
 - started working on a project: https://github.com/pavel-furtsev/Spotify-Playlist-App
+
+### R1D10
+
+#### 02.07.23
+Little progress on the "Jammming" React app today *(1 hour)*
+- set up the file structure
+- boilerplate for each component
