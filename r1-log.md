@@ -80,3 +80,12 @@ Todays' progress *(2 hours)*
 Little progress on the "Jammming" React app today *(1 hour)*
 - set up the file structure
 - boilerplate for each component
+
+### R1D11
+
+#### 08.07.23
+Continuing on the "Jammming" React app *(2 hours)*
+- finished all components and hooks
+- working interactions
+- basic css
+
