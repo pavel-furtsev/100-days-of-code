@@ -89,3 +89,10 @@ Continuing on the "Jammming" React app *(2 hours)*
 - working interactions
 - basic css
 
+### R1D12
+
+#### 09.07.23
+On the finish line with "Jammming" React app *(4+ hours)*
+- debugging and fixing some problems with hooks
+- spotify authentication
+- search and create playlist with Spotify API
