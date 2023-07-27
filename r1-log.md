@@ -96,3 +96,9 @@ On the finish line with "Jammming" React app *(4+ hours)*
 - debugging and fixing some problems with hooks
 - spotify authentication
 - search and create playlist with Spotify API
+
+### R1D13
+
+#### 27.07.23
+Final touches on "Jamming" React app *(1 hour)*
+- updated styling
