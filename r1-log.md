@@ -102,3 +102,9 @@ On the finish line with "Jammming" React app *(4+ hours)*
 #### 27.07.23
 Final touches on "Jamming" React app *(1 hour)*
 - updated styling
+
+### R1D14
+
+#### 30.07.23
+Round 2 with "Jamming" app *(2.5 hours)*
+- added player component to play song preview
