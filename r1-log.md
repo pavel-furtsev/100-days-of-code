@@ -108,3 +108,11 @@ Final touches on "Jamming" React app *(1 hour)*
 #### 30.07.23
 Round 2 with "Jamming" app *(2.5 hours)*
 - added player component to play song preview
+
+### R1D15
+
+#### 31.07.23
+React "Jamming" app *(2 hours)*
+- Fixed bug with play() method.
+- Added search trigger on Enter key press.
+- Added song link to spotify. 
