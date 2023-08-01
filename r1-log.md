@@ -115,4 +115,12 @@ Round 2 with "Jamming" app *(2.5 hours)*
 React "Jamming" app *(2 hours)*
 - Fixed bug with play() method.
 - Added search trigger on Enter key press.
-- Added song link to spotify. 
+- Added song link to spotify.
+
+### R1D16
+
+#### 01.08.23
+Learning React Router
+- react-router-dom
+- Route, RouterProvider, createBrowserRouter, createRoutesFromElements
+- Link, NavLink, Outlet, Navigate, useParams, useNavigate, useSearchParams
