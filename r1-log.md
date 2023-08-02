@@ -124,3 +124,9 @@ Learning React Router
 - react-router-dom
 - Route, RouterProvider, createBrowserRouter, createRoutesFromElements
 - Link, NavLink, Outlet, Navigate, useParams, useNavigate, useSearchParams
+
+### R1D17
+
+#### 02.08.23
+Practice project "Adopt a pat". 
+Added React Router for search and navigation on the website.
