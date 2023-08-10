@@ -130,3 +130,8 @@ Learning React Router
 #### 02.08.23
 Practice project "Adopt a pat". 
 Added React Router for search and navigation on the website.
+
+### R1D18
+
+#### 10.08.23
+Minor updates to the Jammming App and fixes on deployment.
