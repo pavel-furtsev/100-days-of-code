@@ -135,3 +135,12 @@ Added React Router for search and navigation on the website.
 
 #### 10.08.23
 Minor updates to the Jammming App and fixes on deployment.
+
+
+### R1D19
+
+#### 15.08.23
+Review of the web development consepts.
+Started on the Frontend developer path on Codecademy.
+Most of the task are already compleated within the Fullstack path.
+Took "Web founations" exam for certification.
