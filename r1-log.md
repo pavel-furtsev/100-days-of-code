@@ -144,3 +144,12 @@ Review of the web development consepts.
 Started on the Frontend developer path on Codecademy.
 Most of the task are already compleated within the Fullstack path.
 Took "Web founations" exam for certification.
+
+### R1D20
+
+#### 16.08.23
+Went through some not finished cod challenges regarding CSS.
+Gave me a litle review for some CSS concepts.
+Took some time to figure out how can I contribute to open-source projects.
+So far I am thinking about to contribute to React Docs. 
+Maybe making a translation to my mothertonge. Should I give it a try?
