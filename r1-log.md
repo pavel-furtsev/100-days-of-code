@@ -153,3 +153,10 @@ Gave me a litle review for some CSS concepts.
 Took some time to figure out how can I contribute to open-source projects.
 So far I am thinking about to contribute to React Docs. 
 Maybe making a translation to my mothertonge. Should I give it a try?
+
+### R1D21
+
+#### 20.08.23
+Did some practice of CSS while learning the wireframing, colour theory,
+and text design for web UI. In general web design seems to allign with general
+consepts forn graphic design and architectural design.
