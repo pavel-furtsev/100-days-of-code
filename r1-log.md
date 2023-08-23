@@ -160,3 +160,10 @@ Maybe making a translation to my mothertonge. Should I give it a try?
 Did some practice of CSS while learning the wireframing, colour theory,
 and text design for web UI. In general web design seems to allign with general
 consepts forn graphic design and architectural design.
+
+### R1D22
+
+#### 23.08.23
+Today I learned about transitions and animation with keyframes in CSS.
+In the course I was able to read and trysome basic concepts but feels like
+it would require much more practise for me to fooly muster it.
