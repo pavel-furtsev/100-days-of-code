@@ -165,5 +165,12 @@ consepts forn graphic design and architectural design.
 
 #### 23.08.23
 Today I learned about transitions and animation with keyframes in CSS.
-In the course I was able to read and trysome basic concepts but feels like
-it would require much more practise for me to fooly muster it.
+In the course I was able to read and try some basic concepts but feels like
+it would require much more practice for me to fooly muster it.
+
+### R1D23 
+
+#### 24.08.23
+Today I have worked on the chellange project to create a console game called
+"Find a hat". It was quite fun to review the syntax of JavaScript classes.
+I like the syntax of JS but I keep confusing it up with Python and C#.
